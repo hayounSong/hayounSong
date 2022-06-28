@@ -1,6 +1,15 @@
-### Hi there 👋
+### Hi there 👋🐯
+
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Welcome&height=150&fontSize=60&desc=hayoun_Song%20Github%20&descAlignY=75&descAlign=60)
+
+
+![Hayoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayounSong&show_icons=true&)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayounSong&layout=compact)
 
 <!--
+
+
+
 **hayounSong/hayounSong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
