@@ -2,8 +2,14 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Welcome&height=150&fontSize=60&desc=hayoun_Song%20Github%20&descAlignY=75&descAlign=60)
 
+🖐 Hi there! 
 
 ![Hayoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayounSong&show_icons=true&)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayounSong&layout=compact)
+
+
+
+<img alt="Python" src ="https://img.shields.io/badge/Python-blue.svg?&style=for-the-badge&logo=Python&logoColor=#F05032"/>
+
 
 <!--
 
