@@ -21,9 +21,9 @@
 
 <d></d>
 
-
+<div Cache-Control: no-cache>
 ![Hayoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayounSong&show_icons=true&)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayounSong&layout=compact&)
-
+</div>
 
 
 <div>
