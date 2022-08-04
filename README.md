@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Welcome&height=150&fontSize=60&desc=hayoun_Song%20Github%20&descAlignY=75&descAlign=60)
 <br></br>
-<META http-equiv=""Cache-Control"" content=""no-cache"">
+
 <h2>💡 About Me!  </h2>
 <h3>💻 Web Developer</h3>
 <h>🖐 Hi there! I am student of 🎓Kookmin University Software. And I am a <b>junior Web Developer</b>.  <br></br></h>
