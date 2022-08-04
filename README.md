@@ -24,7 +24,7 @@
 
 ![Hayoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayounSong&show_icons=true&)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayounSong&layout=compact)
 
-
+[![Hayoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayounSong&&show_icons=true&theme=dracula)]
 <h2>💻 Tech Skills <br></br></h2>
 
 
