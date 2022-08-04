@@ -1,4 +1,6 @@
-
+<header>
+set Cache-control: private, max-age=0, no-cache
+</header>
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Welcome&height=150&fontSize=60&desc=hayoun_Song%20Github%20&descAlignY=75&descAlign=60)
 <br></br>
 <h2>💡 About Me!  </h2>
@@ -22,7 +24,7 @@
 <d></d>
 
 
-![Hayoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayounSong&show_icons=true&)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayounSong&layout=compact)
+![Hayoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayounSong&show_icons=true&)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayounSong&layout=compact&)
 
 
 
