@@ -24,7 +24,7 @@
 <d></d>
 
 
-![Hayoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayounSong&show_icons=true&)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayounSong&layout=compact&exclude_repo=WebCardGame,20181633asssignments)
+![Hayoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayounSong&show_icons=true&)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayounSong&layout=compact&exclude_repo=WebCardGame,20181633asssignment)
 
 
 
