@@ -13,7 +13,7 @@
 
 <d>🐴 2019.12.22~2020.03.01 블랙스톤 FrontEnd 인턴 개발자 </d>
 
-<d>🐧 2019.12.31~2020.06.01 연합 발표 동아리 Spling 39th </d>
+
 
 <d>🐠 2021.12.21~2022.02.21 Pirogramming 16th </d>
 
@@ -25,6 +25,17 @@
 
 <d></d>
 
+<h3>📕social activities</h3>
+
+<d>👟 2019.01.20~2019.12.01 전세계 자원봉사자 중심의코딩 교육 봉사 네트크 코드클럽한국위원회 코드메이트 1기 활동</d>
+
+<d> ⚾️ 2018.01.01~2018.12.31 대한민국 스포츠 및 야구 통계 플랫폼 KBReport 객원기자</d>
+
+<d>🐧 2019.12.31~2020.06.01 연합 발표 동아리 Spling 39th </d>
+
+<d>🏫 2019.01.01~2022.12.31  국민대 오픈소스 소프트웨어 학회 KOSS 부회장</d>
+
+<d>👟2019.06.20~2019.11.31 올바른 역사를 세상에 알리는 단체, 더 궁궐 서포터즈 2기 활동</d>
 
 ![Hayoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayounSong&show_icons=true&count_private=true&include_all_commits=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayounSong&layout=compact&exclude_repo=WebCardGame,20181633asssignment)
 
