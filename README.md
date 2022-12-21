@@ -23,6 +23,8 @@
 
 <d>🐕 2022.09.24~ SOPT 31th Web Frontend </d>
 
+<d>🐕 2022.11.20~2022.11.21 전통시장을 위한 간편 명함 제작 및 홈페이지 제작 서비스 '시장에가면' Frontend  </d>
+
 <d></d>
 
 <h3>📕social activities</h3>
