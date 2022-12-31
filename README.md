@@ -41,9 +41,6 @@
 
 <d>👟2019.06.20~2019.11.31 올바른 역사를 세상에 알리는 단체, 더 궁궐 서포터즈 2기 활동</d>
 
-![Hayoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayounSong&show_icons=true&count_private=true&include_all_commits=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayounSong&layout=compact&exclude_repo=WebCardGame,20181633asssignment)
-
-
 <h2>👨‍💻 Tech Skills!  </h2>
 <h3> 📲 Frontend </h3>
 <div>
@@ -68,7 +65,6 @@
 
   
 </div>
-<br></br>
 <h2>📝 Tools and SNS </h2>
 <div>
  <a href="[https://www.instagram.com/hayoun_song/](https://velog.io/@hayounsong)"><img alt="RED" src ="https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white"/></a>
@@ -80,7 +76,10 @@
 <img alt="RED" src ="https://img.shields.io/badge/fishingest@kookmin.ac.kr-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
 <a href="https://www.instagram.com/hayoun_song/"><img alt="RED" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
-</div>
+</div><br/>
+
+![Hayoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayounSong&show_icons=true&count_private=true&include_all_commits=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayounSong&layout=compact&exclude_repo=WebCardGame,20181633asssignment)
+
 
 <!--
 
