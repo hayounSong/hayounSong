@@ -23,7 +23,9 @@
 
 <d>🐕 2022.09.24~ SOPT 31th Web Frontend </d>
 
-<d>🦙 2022.11.20~2022.11.21 전통시장을 위한 간편 명함 제작 및 홈페이지 제작 서비스 '시장에가면' Frontend  </d>
+<d>🦙 2022.11.20~2022.11.21 전통시장을 위한 간편 명함 제작 및 홈페이지 제작 서비스 '시장에가면' Frontend 개발 </d>
+
+<d>🦙 2022.12.20~ing 건강한 팀 프로젝트 장려 서비스 'T-Time' Frontend 개발 </d>
 
 <d></d>
 
@@ -42,22 +44,34 @@
 ![Hayoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayounSong&show_icons=true&count_private=true&include_all_commits=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayounSong&layout=compact&exclude_repo=WebCardGame,20181633asssignment)
 
 
-
+<h2>👨‍💻 Tech Skills!  </h2>
+<h3> 📲 Frontend </h3>
 <div>
-<img alt="RED" src ="https://img.shields.io/badge/Python-blue.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-<img alt="RED" src ="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
-<img alt="RED" src ="https://img.shields.io/badge/JAVA-004027.svg?&style=for-the-badge&logo=Jameson&logoColor=white"/>
 <img alt="RED" src ="https://img.shields.io/badge/REACT-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
-<img alt="RED" src ="https://img.shields.io/badge/SPRING-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
+<img alt="RED" src ="https://img.shields.io/badge/TYPESCRIPT-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
 <img alt="RED" src ="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
 <img alt="RED" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
 <img alt="RED" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+  <img alt="RED" src ="https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white"/>
+<img alt="RED" src ="https://img.shields.io/badge/REACT NATIVE-3655FF.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+<img alt="RED" src ="https://img.shields.io/badge/Android Studio-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/>
+<img alt="RED" src ="https://img.shields.io/badge/Android Studio-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/>
+  <img alt="RED" src ="https://img.shields.io/badge/Redux,Recoil-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white"/>
 </div>
 
-<h2>📝 Tools and SNS<br></br> </h2>
-
-
+<h3>⚒ Backend </h3>
 <div>
+<img alt="RED" src ="https://img.shields.io/badge/Python-blue.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+<img alt="RED" src ="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
+  <img alt="RED" src ="https://img.shields.io/badge/JAVA-004027.svg?&style=for-the-badge&logo=Jameson&logoColor=white"/>
+<img alt="RED" src ="https://img.shields.io/badge/SPRING-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
+
+  
+</div>
+<br></br>
+<h2>📝 Tools and SNS </h2>
+<div>
+ <a href="[https://www.instagram.com/hayoun_song/](https://velog.io/@hayounsong)"><img alt="RED" src ="https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white"/></a>
 <a href="https://github.com/hayounSong/"><img alt="RED" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 <img alt="RED" src ="https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?&style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
 <img alt="RED" src ="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/>
