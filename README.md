@@ -52,7 +52,6 @@
   <img alt="RED" src ="https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white"/>
 <img alt="RED" src ="https://img.shields.io/badge/REACT NATIVE-3655FF.svg?&style=for-the-badge&logo=React&logoColor=white"/>
 <img alt="RED" src ="https://img.shields.io/badge/Android Studio-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/>
-<img alt="RED" src ="https://img.shields.io/badge/Android Studio-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/>
   <img alt="RED" src ="https://img.shields.io/badge/Redux,Recoil-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white"/>
 </div>
 
