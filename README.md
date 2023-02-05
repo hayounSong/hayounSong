@@ -66,7 +66,7 @@
 </div>
 <h2>📝 Tools and SNS </h2>
 <div>
- <a href="[https://www.instagram.com/hayoun_song/](https://velog.io/@hayounsong)"><img alt="RED" src ="https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white"/></a>
+ <a href="https://velog.io/@hayounsong">(https://velog.io/@hayounsong)"><img alt="RED" src ="https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white"/></a>
 <a href="https://github.com/hayounSong/"><img alt="RED" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 <img alt="RED" src ="https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?&style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
 <img alt="RED" src ="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/>
