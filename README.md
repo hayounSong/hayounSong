@@ -68,12 +68,7 @@
 <div>
  <a href="https://velog.io/@hayounsong"><img alt="RED" src ="https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white"/></a>
 <a href="https://github.com/hayounSong/"><img alt="RED" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-<img alt="RED" src ="https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?&style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
-<img alt="RED" src ="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/>
-<img alt="RED" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
 <a href="https://blog.naver.com/fishingest"><img alt="RED" src ="https://img.shields.io/badge/BLOG-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white"/></a>
-<img alt="RED" src ="https://img.shields.io/badge/fishingest@kookmin.ac.kr-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
-<a href="https://www.instagram.com/hayoun_song/"><img alt="RED" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 </div><br/>
 
