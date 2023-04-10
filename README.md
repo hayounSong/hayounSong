@@ -11,19 +11,21 @@
 
 <d>🐤 2019.09.01~2019.12.21 코딩 학습 도우미 어플리케이션, 산타코딩 어플리케이션 개발</d>
 
-<d>🐴 2019.12.22~2020.03.01 블랙스톤 인턴 개발자 </d>
+<d>🐴 2019.12.22~2020.03.01 블랙스톤 오더얌 서비스 인턴 개발자 </d>
 
-<d>🐠 2021.12.21~2022.02.21 Pirogramming 16th </d>
+<d>🐠 2021.12.21~2022.02.21 연합 웹 개발 동아리 Pirogramming 16th </d>
 
 <d>🐔 2022.01.25~2022.02.21 오직 독립 영화만을 위한 서비스, 주인 없는 영화관 팀장 및 Backend 개발 </d>
 
 <d>🦆 2022.02.26~ KMU KOSS 부회장,제로웨이스터들을 위한 플랫폼 서비스 Bzero 팀장 및 FullStack 개발  </d>
 
-<d>🐕 2022.09.24~ SOPT 31th Web Frontend </d>
+<d>🐕 2022.09.24~2023.02.01 SOPT 31th Web Frontend </d>
 
 <d>🦙 2022.11.20~2022.11.21 전통시장을 위한 간편 명함 제작 및 홈페이지 제작 서비스 '시장에가면' Frontend 개발 </d>
 
-<d>🦙 2022.12.20~ing 건강한 팀 프로젝트 장려 해피니스체크 서비스 'T.Time' Frontend 개발 </d>
+<d>🐬 2022.12.20~ing 건강한 팀 프로젝트 장려 해피니스체크 서비스 'T.Time' Frontend 개발 </d>
+
+<d>🦄 2023.03.01~ing SOPT 32nd Server Backend </d>
 
 <d></d>
 
@@ -47,7 +49,8 @@
 <img alt="RED" src ="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
   <img alt="RED" src ="https://img.shields.io/badge/JAVA-004027.svg?&style=for-the-badge&logo=Jameson&logoColor=white"/>
 <img alt="RED" src ="https://img.shields.io/badge/SPRING-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
-
+<img alt="RED" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MYSQL&logoColor=white"/>
+<img alt="RED" src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/>
   
 </div>
 <h2>📝 Tools and SNS </h2>
