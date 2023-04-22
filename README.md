@@ -4,7 +4,7 @@
 <br></br>
 
 <h2>💡 About Me!  </h2>
-<h3>💻 Junoior Developer</h3>
+<h3>💻 Junior Developer</h3>
 <h>🖐 Hi there! I am student of 🎓Kookmin University Software. And I am a <b>junior Developer</b>.  <br></br></h>
 
 <d>🐶 2019.07.01~2019.12.01 친숙한 캐릭터인 명탐정 코난의 목소리를 이용한 음성 합성 프로젝트, TAVE 4th</d>
