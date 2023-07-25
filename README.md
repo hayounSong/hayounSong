@@ -4,33 +4,42 @@
 <br></br>
 
 <h2>💡 About Me!  </h2>
-<h3>💻 Junior Developer</h3>
-<h>🖐 Hi there! I am student of 🎓Kookmin University Software. And I am a <b>junior Developer</b>.  <br></br></h>
 
-<d>🐶 2019.07.01~2019.12.01 친숙한 캐릭터인 명탐정 코난의 목소리를 이용한 음성 합성 프로젝트, TAVE 4th</d>
+<h>🖐 넓은 시야의 개발자를 꿈꾸는 주니어 개발자입니다 </b>.  <br></br></h>
 
-<d>🐤 2019.09.01~2019.12.21 코딩 학습 도우미 어플리케이션, 산타코딩 어플리케이션 Backend 개발</d>
+<h2>🎓 Experience & Social Activity</h2>
 
-<d>🐴 2019.12.22~2020.03.01 블랙스톤 오더얌 서비스 인턴 개발자 </d>
+|소속 및 단체|활동 기간|내용|
+|---|---|---|
+|국민대학교| 2018.03~  | 국민대학교 소프트웨어학부 재학
+|블랙스톤|2019.12 ~ 2020.03| 내 손 안의 무인결제기' 오더얌 모바일 웹 키오스크 서비스 Frontend 인턴 개발자 |
+|삼성전자 DS|2023.06 ~ 2023.08| 2023 하반기 (주) 삼성전자 DS 인턴 개발자 |
+|피로그래밍 16th, 17th|2021.12 ~ 2022.08| 연합 웹 개발 동아리 Pirogramming 16th,17th |
+|IN SOPT|2022.09 ~ 2023.02| 대학생 연합 IT 벤처 창업 동아리 SOPT 31th Web Frontend |
+|GO SOPT|2023.03 ~ 2023.08|GO SOPT 32th Server Backend, SOPT 운영팀 |
+|TAVE 4th|2019.09 ~ 2019.12 | 연합 IT 학술 학회 TAVE 4th |
+|KMU KOSS|2018.09 ~ 2022.12| KMU 오픈소스 소프트웨어 학회 KOSS 부회장 |
+|KMU 두음|2018.06 ~ 2022.12 | 코딩 교육봉사 동아리 두음 부회장 및 회원|
+|코드클럽한국위원회|2019.01 ~ 2019.12| 코딩 교육봉사 서포터즈 및 기획 코드메에트 2기|
 
-<d>🐠 2021.12.21~2022.02.21 연합 웹 개발 동아리 Pirogramming 16th </d>
 
-<d>🐔 2022.01.25~2022.02.21 오직 독립 영화만을 위한 서비스, 주인 없는 영화관 팀장 및 Backend 개발 </d>
 
-<d>🦆 2022.02.26~ KMU KOSS 부회장,제로웨이스터들을 위한 플랫폼 서비스 Bzero 팀장 및 FullStack 개발  </d>
+<h2>💻 Projects</h3>
 
-<d>🐕 2022.09.24~2023.02.01 SOPT 31th Web Frontend </d>
+| 기간 | 내용 |
+| --- | --- |
+| 2022.12 ~ | 건강한 팀 프로젝트 장려 해피니스체크 서비스 '<a href="https://github.com/Antititi-time/T.TIME_CLIENT">T.Time</a>' Frontend 개발 |
+| 2023.03 ~ 2023.06 | 나만의 작은 복지사, AI기반 노인 건강 관제 서비스 '<a href="https://github.com/hayounSong/Boksiri">복실이</a>' Frontend 개발 |
+| 2022.06 ~ 2022.09 | 제로웨이스터들을 위한 플랫폼 서비스 <a href="https://github.com/hayounSong/Bzero">Bzero</a> 팀장 및 Frontend 개발 |
+| 2022.11 ~ 2022.11 | 전통시장을 위한 간편 명함 제작 및 홈페이지 제작 서비스 '<a href="https://github.com/hayounSong/GotoMarket">시장에가면</a>' Frontend 개발 |
+| 2022.07 ~ 2022.09 | 오직 독립 영화만을 위한 서비스, <a href="https://github.com/hayounSong/NoOwnerTheater">주인 없는 영화관 </a> 팀장 및 Backend 개발 |
+| 2022.07 ~ 2022.12 | 정당한 노동을 위한 외국인 노동자 법률 서비스, <a href="https://github.com/sopkathon-32nd-10/Server">IgoBoss</a> Backend 개발 |
 
-<d>🦙 2022.11.20~2022.11.21 전통시장을 위한 간편 명함 제작 및 홈페이지 제작 서비스 '시장에가면' Frontend 개발 </d>
 
-<d>🐬 2022.12.20~ing 건강한 팀 프로젝트 장려 해피니스체크 서비스 'T.Time' Frontend 개발 </d>
 
-<d>🦄 2023.03.01~ing SOPT 32nd Server Backend </d>
+<h2>🎖️ Awards/Certificates</h2>
 
-<d>🦁 2023.03.01~2023.06.01 나만의 작은 복지사, AI기반 노인 건강 관제 서비스 '복실이' </d>
-
-<d>🦁 2023.06~ 2023.08. Samsung Electronics </d>
-
+<d>🥇 국민대학교 캡스톤디자인 '복실이' 1등상 </d>
 
 <d></d>
 
@@ -77,12 +86,4 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...ㅁㄴㅇㄹㅁ
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
