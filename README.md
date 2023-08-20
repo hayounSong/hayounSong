@@ -16,8 +16,8 @@
 |삼성전자|2023.06 ~ 2023.08| 2023 하반기 (주) 삼성전자 인턴 개발자 |
 |피로그래밍 16th, 17th|2021.12 ~ 2022.08| 연합 웹 개발 동아리 Pirogramming 16th,17th |
 |IN SOPT 31th|2022.09 ~ 2023.02| 대학생 연합 IT 벤처 창업 동아리 SOPT 31th Web Frontend |
-|GO SOPT 32th|2023.03 ~ 2023.08|GO SOPT 32th Server Backend, SOPT 운영팀 |
-|TAVE 4th|2019.09 ~ 2019.12 | 연합 IT 학술 학회 TAVE 4th |
+|GO SOPT 32th|2023.03 ~ 2023.08| 대학생 연합 IT 벤처 창업 동아리SOPT 32th Server Backend, SOPT 운영팀 |
+|TAVE 4th|2019.09 ~ 2019.12 | 대학생 연합 IT 학술 학회 TAVE 4th |
 |KMU KOSS|2018.09 ~ 2022.12| KMU 오픈소스 소프트웨어 학회 KOSS 부회장 |
 |KMU 두음|2018.06 ~ 2022.12 | 코딩 교육봉사 동아리 두음 부회장 및 회원|
 |코드클럽한국위원회|2019.01 ~ 2019.12| 코딩 교육봉사 서포터즈 및 기획 코드메에트 2기|
@@ -32,7 +32,7 @@
 | 2023.03 ~ 2023.06 | 나만의 작은 복지사, AI기반 노인 건강 관제 서비스 '<a href="https://github.com/hayounSong/Boksiri">복실이</a>' Frontend 개발 |
 | 2022.06 ~ 2022.09 | 제로웨이스터들을 위한 플랫폼 서비스 <a href="https://github.com/hayounSong/Bzero">Bzero</a> 팀장 및 Frontend 개발 |
 | 2022.11 ~ 2022.11 | 전통시장을 위한 간편 명함 제작 및 홈페이지 제작 서비스 '<a href="https://github.com/hayounSong/GotoMarket">시장에가면</a>' Frontend 개발 |
-| 2022.07 ~ 2022.09 | 오직 독립 영화만을 위한 서비스, <a href="https://github.com/hayounSong/NoOwnerTheater">주인 없는 영화관 </a> 팀장 및 Backend 개발 |
+| 2022.07 ~ 2022.09 | 오직 독립 영화만을 위한 플랫폼 서비스, <a href="https://github.com/hayounSong/NoOwnerTheater">주인 없는 영화관 </a> 팀장 및 Backend 개발 |
 | 2022.07 ~ 2022.12 | 정당한 노동을 위한 외국인 노동자 법률 서비스, <a href="https://github.com/sopkathon-32nd-10/Server">IgoBoss</a> Backend 개발 |
 
 
