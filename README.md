@@ -15,7 +15,7 @@
 |블랙스톤|2019.12 ~ 2020.03| 내 손 안의 무인결제기' 오더얌 모바일 웹 키오스크 서비스 Frontend 인턴 개발자 |
 |삼성전자|2023.06 ~ 2023.08| 2023 하반기 (주) 삼성전자 인턴 개발자 |
 |피로그래밍 16th, 17th|2021.12 ~ 2022.08| 연합 웹 개발 동아리 Pirogramming 16th,17th |
-|IN SOPT 31th|2022.09 ~ 2023.02| 대학생 연합 IT 벤처 창업 동아리 SOPT 31th Web Frontend |
+|IN SOPT 31st|2022.09 ~ 2023.02| 대학생 연합 IT 벤처 창업 동아리 SOPT 31th Web Frontend |
 |GO SOPT 32th|2023.03 ~ 2023.08| 대학생 연합 IT 벤처 창업 동아리SOPT 32th Server Backend, SOPT 운영팀 |
 |TAVE 4th|2019.09 ~ 2019.12 | 대학생 연합 IT 학술 학회 TAVE 4th |
 |KMU KOSS|2018.09 ~ 2022.12| KMU 오픈소스 소프트웨어 학회 KOSS 부회장 |
