@@ -32,7 +32,7 @@
 | 2023.03 ~ 2023.06 | 나만의 작은 복지사, AI 노인 건강 관리/관제 서비스 '<a href="https://github.com/hayounSong/Boksiri">복실이</a>' Frontend 개발 |
 | 2022.06 ~ 2022.09 | 제로웨이스터들을 위한 플랫폼 서비스 <a href="https://github.com/hayounSong/Bzero">Bzero</a> 팀장 및 Frontend 개발 |
 | 2022.11 ~ 2022.11 | 전통시장을 위한 간편 명함 제작 및 홈페이지 제작 서비스 '<a href="https://github.com/hayounSong/GotoMarket">시장에가면</a>' Frontend 개발 |
-| 2022.07 ~ 2022.09 | 오직 독립 영화만을 위한 플랫폼 서비스, <a href="https://github.com/hayounSong/NoOwnerTheater">주인 없는 영화관 </a> 팀장 및 Backend 개발 |
+| 2022.07 ~ 2022.09 | 오직 독립 영화만을 위한 플랫폼 서비스, <a href="https://github.com/hayounSong/NoOwnerTheater">주인 없는 영화관 </a> 팀장 및 Web 개발 |
 | 2022.07 ~ 2022.12 | 정당한 노동을 위한 외국인 노동자 법률 서비스, <a href="https://github.com/sopkathon-32nd-10/Server">IgoBoss</a> Backend 개발 |
 
 
