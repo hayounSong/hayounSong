@@ -6,6 +6,7 @@
 <h2>💡 About Me!  </h2>
 
 <h>🖐 넓은 시야의 개발자를 꿈꾸는 주니어 개발자입니다 </b>.  <br></br></h>
+<h> Contact: https://fishingest@gmail.com </h>
 
 <h2>🎓 Experience & Social Activity</h2>
 
