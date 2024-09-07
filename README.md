@@ -16,7 +16,7 @@
 |블랙스톤|2019.12 ~ 2020.03| 내 손 안의 무인결제기 오더얌 모바일 웹 키오스크 서비스 Frontend 인턴 개발자 |
 |삼성전자|2023.06 ~ 2023.08| 2023 하반기 (주) 삼성전자 인턴 개발자 |
 |삼성전자|2024.03 ~ | 삼성전자 SW Developer |
-|Sopt Makers|2024.08 ~ | Sopt Playground Fronend 개발 |
+|Sopt Makers|2024.08 ~ | SOPT Playground 서비스 Fronend 개발팀 |
 |피로그래밍 16th, 17th|2021.12 ~ 2022.08| 연합 웹 개발 동아리 Pirogramming 16th,17th |
 |IN SOPT 31st|2022.09 ~ 2023.02| 대학생 연합 IT 벤처 창업 연합 SOPT 31th Web Frontend |
 |GO SOPT 32nd|2023.03 ~ 2023.08| 대학생 연합 IT 벤처 창업 연합 SOPT 32th Server Backend, SOPT 운영팀 |
