@@ -31,11 +31,12 @@
 
 | 기간 | 내용 |
 | --- | --- |
+| 2024.08 ~  | IT벤처창업 연합 SOPT 구성원 소통창구 서비스 "<a href="https://github.com/sopt-makers/sopt-playground-frontend">Sopt Playground</a>" Frontend 개발 |
 | 2022.12 ~ 2023.12 | 건강한 팀 문화를 위한 팀 해피니스 체크 서비스 '<a href="https://github.com/Antititi-time/T.TIME_CLIENT">T.Time</a>' Frontend 개발 |
 | 2023.01 ~ 2023.06 | 노인 건강 관리/관제 AI 복지사 서비스 '<a href="https://github.com/hayounSong/Boksiri">복실이</a>' Frontend 개발 |
 | 2022.06 ~ 2022.09 | 제로웨이스터들을 위한 플랫폼 서비스 <a href="https://github.com/hayounSong/Bzero">Bzero</a> 팀장 및 Frontend 개발 |
 | 2022.11 ~ 2022.11 | 전통시장을 위한 간편 명함 제작 및 홈페이지 제작 서비스 '<a href="https://github.com/hayounSong/GotoMarket">시장에가면</a>' Frontend 개발 |
-| 2023.11 ~  | 고객맞춤형 네일샵 큐레이션 서비스 , <a href="https://github.com/Sum-nail/sum-nail-server">'Sumnail'</a> Backend 개발 |
+| 2023.11 ~ 2024.02  | 고객맞춤형 네일샵 큐레이션 서비스 , <a href="https://github.com/Sum-nail/sum-nail-server">'Sumnail'</a> Backend 개발 |
 | 2022.07 ~ 2022.09 | 오직 독립 영화만을 위한 플랫폼 서비스, <a href="https://github.com/hayounSong/NoOwnerTheater">주인 없는 영화관 </a> 팀장 및 Web 개발 |
 | 2022.07 ~ 2022.12 | 정당한 노동을 위한 외국인 노동자 법률 서비스, <a href="https://github.com/sopkathon-32nd-10/Server">IgoBoss</a> Backend 개발 |
 
