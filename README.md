@@ -31,7 +31,7 @@
 
 | 기간 | 내용 |
 | --- | --- |
-| 2024.08 ~  | IT벤처창업 연합 SOPT 구성원 소통창구 서비스 "<a href="https://github.com/sopt-makers/sopt-playground-frontend">Sopt Playground</a>" Frontend 개발 |
+| 2024.08 ~  | IT 벤처창업 연합 SOPT 구성원 소통창구 서비스 '<a href="https://github.com/sopt-makers/sopt-playground-frontend">Sopt Playground</a>' Frontend 개발 |
 | 2022.12 ~ 2023.12 | 건강한 팀 문화를 위한 팀 해피니스 체크 서비스 '<a href="https://github.com/Antititi-time/T.TIME_CLIENT">T.Time</a>' Frontend 개발 |
 | 2023.01 ~ 2023.06 | 노인 건강 관리/관제 AI 복지사 서비스 '<a href="https://github.com/hayounSong/Boksiri">복실이</a>' Frontend 개발 |
 | 2022.06 ~ 2022.09 | 제로웨이스터들을 위한 플랫폼 서비스 <a href="https://github.com/hayounSong/Bzero">Bzero</a> 팀장 및 Frontend 개발 |
